@@ -2,7 +2,7 @@
 
 Repositorio de laboratorios y prácticas de cursos de Platzi.
 
-### Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 platzi-laboratories/
@@ -10,5 +10,5 @@ platzi-laboratories/
 └── README.md
 ```
 
-### Uso
+## Uso
 Cada laboratorio está organizado en su propia carpeta con instrucciones específicas.
